@@ -31,8 +31,6 @@ If activation fails, run: python -m venv .venv then try again, and ensure execut
 ```bash
 pip install --upgrade pip
 pip install -r requirements.txt
-# or, if this project is a package:
-# pip install -e .
 ```
 
 ## 4. Environment variables
